@@ -24,9 +24,29 @@
             <td><a href="https://leetcode.com/problems/query-kth-smallest-trimmed-number/solutions/4513150/goldman-sachs-easy-solution/">Solution</a></td>
         </tr>
         <tr>
-            <td></td>
-            <td><a href="#"></a></td>
-            <td><a href="#"></a></td>
+            <td>4</td>
+            <td><a href="https://leetcode.com/problems/combination-sum-iii/description/">Combination Sum</a></td>
+            <td><a href="https://leetcode.com/problems/combination-sum-iii/solutions/4513253/goldman-sachs-amazon-easy-solution/">Solution</a></td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td><a href=""></a></td>
+            <td><a href=""></a></td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td><a href="https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/">Letter Combinations of a Phone Number</a></td>
+            <td><a href="https://leetcode.com/problems/letter-combinations-of-a-phone-number/solutions/4513338/goldman-sachs-easy-solution/">Solution</a></td>
+        </tr>
+        <tr>
+            <td>7</td>
+            <td><a href=""></a></td>
+            <td><a href=""></a></td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td><a href=""></a></td>
+            <td><a href=""></a></td>
         </tr>
     </tbody>
 </table>
