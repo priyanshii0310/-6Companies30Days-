@@ -30,8 +30,8 @@
         </tr>
         <tr>
             <td>5</td>
-            <td><a href=""></a></td>
-            <td><a href=""></a></td>
+            <td><a href="https://leetcode.com/problems/random-flip-matrix/description/">Random Flip Matrix</a></td>
+            <td><a href="https://leetcode.com/problems/random-flip-matrix/solutions/4513624/goldman-sachs-easy-solution/">Solution</a></td>
         </tr>
         <tr>
             <td>6</td>
