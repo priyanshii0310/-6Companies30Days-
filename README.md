@@ -20,8 +20,8 @@
         </tr>
       <tr>
             <td>3</td>
-            <td><a href="https://leetcode.com/problems/query-kth-smallest-trimmed-number/submissions/"></a>Query Kth Smallest Trimmed Number</td>
-            <td><a href="https://leetcode.com/problems/query-kth-smallest-trimmed-number/solutions/4513150/goldman-sachs-easy-solution/"></a>Solution</td>
+            <td><a href="https://leetcode.com/problems/query-kth-smallest-trimmed-number/submissions/">Query Kth Smallest Trimmed Number</a></td>
+            <td><a href="https://leetcode.com/problems/query-kth-smallest-trimmed-number/solutions/4513150/goldman-sachs-easy-solution/">Solution</a></td>
         </tr>
         <tr>
             <td></td>
