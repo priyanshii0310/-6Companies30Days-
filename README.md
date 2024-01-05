@@ -39,12 +39,12 @@
             <td><a href="https://leetcode.com/problems/letter-combinations-of-a-phone-number/solutions/4513338/goldman-sachs-easy-solution/">Solution</a></td>
         </tr>
         <tr>
-            <td>7</td>
+            <td></td>
             <td><a href=""></a></td>
             <td><a href=""></a></td>
         </tr>
         <tr>
-            <td>5</td>
+            <td></td>
             <td><a href=""></a></td>
             <td><a href=""></a></td>
         </tr>
