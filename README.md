@@ -54,19 +54,19 @@
             <td><a href=""></a></td>
         </tr>
         <tr>
-            <td></td>
-            <td><a href=""></a></td>
-            <td><a href=""></a></td>
+            <td>10</td>
+            <td><a href="https://leetcode.com/problems/k-divisible-elements-subarrays/description/">K Divisible Elements Subarrays</a></td>
+            <td><a href="https://leetcode.com/problems/k-divisible-elements-subarrays/solutions/4513890/goldman-sachs-easy-solution/">Solution</a></td>
         </tr>
         <tr>
-            <td></td>
-            <td><a href=""></a></td>
-            <td><a href=""></a></td>
+            <td>11</td>
+            <td><a href="https://leetcode.com/problems/map-of-highest-peak/description/">Map of Highest Peak</a></td>
+            <td><a href="https://leetcode.com/problems/map-of-highest-peak/solutions/4513922/goldman-sachs-easy-solution/">Solution</a></td>
         </tr>
         <tr>
-            <td></td>
-            <td><a href=""></a></td>
-            <td><a href=""></a></td>
+            <td>12</td>
+            <td><a href="https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/description/">Maximum Sum BST in Binary Tree</a></td>
+            <td><a href="">Solution</a></td>
         </tr>
         <tr>
             <td></td>
