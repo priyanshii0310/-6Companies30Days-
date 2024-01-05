@@ -14,9 +14,9 @@
             <td><a href="https://leetcode.com/problems/minimize-the-maximum-of-two-arrays/solutions/4513004/goldman-sachs-easy-solution/">Solution</a></td>
         </tr>
         <tr>
-            <td></td>
-            <td><a href="#"></a></td>
-            <td><a href="#"></a></td>
+            <td>2</td>
+            <td><a href="https://leetcode.com/problems/high-access-employees/description/">High-Access Employees</a></td>
+            <td><a href="https://leetcode.com/problems/high-access-employees/solutions/4513082/goldman-sachs-easy-solution/">Solution</a></td>
         </tr>
       <tr>
             <td></td>
