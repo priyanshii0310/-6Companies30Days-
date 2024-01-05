@@ -2,7 +2,7 @@
 <table border="1">
     <thead>
         <tr>
-            <th>Serial No.</th>
+            <th>S No.</th>
             <th>Question</th>
             <th>Answer</th>
         </tr>
