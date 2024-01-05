@@ -44,6 +44,31 @@
             <td><a href=""></a></td>
         </tr>
         <tr>
+            <td>8</td>
+            <td><a href="https://leetcode.com/problems/find-consecutive-integers-from-a-data-stream/">Find Consecutive Integers from a Data Stream</a></td>
+            <td><a href="https://leetcode.com/problems/find-consecutive-integers-from-a-data-stream/solutions/4513781/goldman-sachs-easy-solution/">Solution</a></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td><a href=""></a></td>
+            <td><a href=""></a></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td><a href=""></a></td>
+            <td><a href=""></a></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td><a href=""></a></td>
+            <td><a href=""></a></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td><a href=""></a></td>
+            <td><a href=""></a></td>
+        </tr>
+        <tr>
             <td></td>
             <td><a href=""></a></td>
             <td><a href=""></a></td>
