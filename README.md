@@ -51,7 +51,7 @@
         <tr>
             <td>9</td>
             <td><a href="https://www.geeksforgeeks.org/problems/number-following-a-pattern3126/1">Number following a pattern</a></td>
-            <td><a href="">Solution</a></td>
+            <td><a href="https://discuss.geeksforgeeks.org/comment/79baf7ba-80d2-4188-8eae-2378bb0b130d/practice">Solution</a></td>
         </tr>
         <tr>
             <td>10</td>
@@ -76,7 +76,7 @@
         <tr>
             <td>14</td>
             <td><a href="https://www.geeksforgeeks.org/problems/run-length-encoding/1">Run Length Encoding</a></td>
-            <td><a href="https://discuss.geeksforgeeks.org/comment/eb847504-3a9f-4f8d-a38d-5e41a6813533/practice"></a></td>
+            <td><a href="https://discuss.geeksforgeeks.org/comment/eb847504-3a9f-4f8d-a38d-5e41a6813533/practice">Solution</a></td>
         </tr>
         <tr>
             <td>15</td>
