@@ -39,9 +39,9 @@
             <td><a href="https://leetcode.com/problems/letter-combinations-of-a-phone-number/solutions/4513338/goldman-sachs-easy-solution/">Solution</a></td>
         </tr>
         <tr>
-            <td></td>
-            <td><a href=""></a></td>
-            <td><a href=""></a></td>
+            <td>7</td>
+            <td><a href="https://www.geeksforgeeks.org/problems/find-missing-and-repeating2512/1">Find Missing And Repeating</a></td>
+            <td><a href="https://discuss.geeksforgeeks.org/comment/02365df5-6378-4fda-bbaa-dcc1770921ea/practice">Solution</a></td>
         </tr>
         <tr>
             <td>8</td>
@@ -49,9 +49,9 @@
             <td><a href="https://leetcode.com/problems/find-consecutive-integers-from-a-data-stream/solutions/4513781/goldman-sachs-easy-solution/">Solution</a></td>
         </tr>
         <tr>
-            <td></td>
-            <td><a href=""></a></td>
-            <td><a href=""></a></td>
+            <td>9</td>
+            <td><a href="https://www.geeksforgeeks.org/problems/number-following-a-pattern3126/1">Number following a pattern</a></td>
+            <td><a href="">Solution</a></td>
         </tr>
         <tr>
             <td>10</td>
