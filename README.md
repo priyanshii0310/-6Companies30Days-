@@ -66,12 +66,22 @@
         <tr>
             <td>12</td>
             <td><a href="https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/description/">Maximum Sum BST in Binary Tree</a></td>
-            <td><a href="">Solution</a></td>
+            <td><a href="https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/solutions/4516859/goldman-sachs-easy-solution/">Solution</a></td>
         </tr>
         <tr>
-            <td></td>
-            <td><a href=""></a></td>
-            <td><a href=""></a></td>
+            <td>13</td>
+            <td><a href="https://leetcode.com/problems/number-of-people-aware-of-a-secret/description/">Number of People Aware of a Secret</a></td>
+            <td><a href="https://leetcode.com/problems/number-of-people-aware-of-a-secret/solutions/4516885/goldman-sachs-easy-solution/">Solution</a></td>
+        </tr>
+        <tr>
+            <td>14</td>
+            <td><a href="https://www.geeksforgeeks.org/problems/run-length-encoding/1">Run Length Encoding</a></td>
+            <td><a href="https://discuss.geeksforgeeks.org/comment/eb847504-3a9f-4f8d-a38d-5e41a6813533/practice"></a></td>
+        </tr>
+        <tr>
+            <td>15</td>
+            <td><a href="https://leetcode.com/problems/number-of-ways-to-reach-a-position-after-exactly-k-steps/description/">Number of Ways to Reach a Position After Exactly k Steps</a></td>
+            <td><a href="https://leetcode.com/problems/number-of-ways-to-reach-a-position-after-exactly-k-steps/solutions/4516931/goldman-sachs-easy-solution-beats100/">Solution</a></td>
         </tr>
     </tbody>
 </table>
