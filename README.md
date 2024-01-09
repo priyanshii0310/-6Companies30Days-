@@ -106,28 +106,28 @@
         </tr>
         <tr>
             <td>2</td>
-            <td><a href="https://leetcode.com/problems/high-access-employees/description/">High-Access Employees</a></td>
-            <td><a href="https://leetcode.com/problems/high-access-employees/solutions/4513082/goldman-sachs-easy-solution/">Solution</a></td>
+            <td><a href="https://leetcode.com/problems/find-the-winner-of-the-circular-game/">Find the Winner of the Circular Game</a></td>
+            <td><a href="https://leetcode.com/problems/find-the-winner-of-the-circular-game/solutions/4522841/microsoft-easy-solution-beats-100/">Solution</a></td>
         </tr>
       <tr>
             <td>3</td>
-            <td><a href="https://leetcode.com/problems/query-kth-smallest-trimmed-number/description/">Query Kth Smallest Trimmed Number</a></td>
-            <td><a href="https://leetcode.com/problems/query-kth-smallest-trimmed-number/solutions/4513150/goldman-sachs-easy-solution/">Solution</a></td>
+            <td><a href="https://leetcode.com/problems/russian-doll-envelopes/description/">Russian Doll Envelopes</a></td>
+            <td><a href="https://leetcode.com/problems/russian-doll-envelopes/solutions/4522870/microsoft-easy-solution-beats-93/">Solution</a></td>
         </tr>
         <tr>
             <td>4</td>
-            <td><a href="https://leetcode.com/problems/combination-sum-iii/description/">Combination Sum</a></td>
-            <td><a href="https://leetcode.com/problems/combination-sum-iii/solutions/4513253/goldman-sachs-amazon-easy-solution/">Solution</a></td>
+            <td><a href="https://leetcode.com/problems/image-smoother/description/">Image Smoother</a></td>
+            <td><a href="https://leetcode.com/problems/image-smoother/solutions/4524456/microsoft-easy-solution/">Solution</a></td>
         </tr>
         <tr>
             <td>5</td>
-            <td><a href="https://leetcode.com/problems/random-flip-matrix/description/">Random Flip Matrix</a></td>
-            <td><a href="https://leetcode.com/problems/random-flip-matrix/solutions/4513624/goldman-sachs-easy-solution/">Solution</a></td>
+            <td><a href="https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/description/">Minimum Moves to Equal Array Elements II</a></td>
+            <td><a href="https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/solutions/4530829/microsoft-easy-solution/">Solution</a></td>
         </tr>
         <tr>
             <td>6</td>
-            <td><a href="https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/">Letter Combinations of a Phone Number</a></td>
-            <td><a href="https://leetcode.com/problems/letter-combinations-of-a-phone-number/solutions/4513338/goldman-sachs-easy-solution/">Solution</a></td>
+            <td><a href=""></a></td>
+            <td><a href="">Solution</a></td>
         </tr>
         <tr>
             <td>7</td>
