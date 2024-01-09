@@ -126,15 +126,15 @@
         </tr>
         <tr>
             <td>6</td>
-            <td><a href=""></a></td>
-            <td><a href="">Solution</a></td>
+            <td><a href="https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/description/">Random Point in Non-overlapping Rectangles</a></td>
+            <td><a href="https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/solutions/4534483/microsoft-easy-solution-challenge/">Solution</a></td>
         </tr>
-        <tr>
+       <tr>
             <td>7</td>
-            <td><a href=""></a></td>
-            <td><a href="">Solution</a></td>
+            <td><a href="https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/description/">Random Point in Non-overlapping Rectangles</a></td>
+            <td><a href="https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/solutions/4534532/microsoft-easy-solution/">Solution</a></td>
         </tr>
-        <tr>
+     <!--     <tr>
             <td>8</td>
             <td><a href=""></a></td>
             <td><a href="">Solution</a></td>
@@ -173,6 +173,6 @@
             <td>15</td>
             <td><a href=""></a></td>
             <td><a href="">Solution</a></td>
-        </tr>
+        </tr> -->
     </tbody>
 </table>
