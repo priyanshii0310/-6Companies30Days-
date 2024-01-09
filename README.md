@@ -1,4 +1,4 @@
-# -6Companies30Days-
+## -6Companies30Days-
 
 # 1. Goldman Sachs
 <table border="1">
