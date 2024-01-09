@@ -101,8 +101,8 @@
     <tbody>
         <tr>
             <td>1</td>
-            <td><a href="https://leetcode.com/problems/minimize-the-maximum-of-two-arrays/description/">Minimize the Maximum of Two Arrays</a></td>
-            <td><a href="https://leetcode.com/problems/minimize-the-maximum-of-two-arrays/solutions/4513004/goldman-sachs-easy-solution/">Solution</a></td>
+            <td><a href="https://leetcode.com/problems/circle-and-rectangle-overlapping/description/">Circle and Rectangle Overlapping</a></td>
+            <td><a href="https://leetcode.com/problems/circle-and-rectangle-overlapping/solutions/4518682/microsoft-easy-solution-beats-100/">Solution</a></td>
         </tr>
         <tr>
             <td>2</td>
