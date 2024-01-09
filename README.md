@@ -134,22 +134,22 @@
             <td><a href="https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/description/">Random Point in Non-overlapping Rectangles</a></td>
             <td><a href="https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/solutions/4534532/microsoft-easy-solution/">Solution</a></td>
         </tr>
-     <!--     <tr>
+         <tr>
             <td>8</td>
-            <td><a href=""></a></td>
-            <td><a href="">Solution</a></td>
+            <td><a href="https://leetcode.com/problems/bulls-and-cows/description/">Bulls and Cows</a></td>
+            <td><a href="https://leetcode.com/problems/bulls-and-cows/solutions/4536563/microsoft-easy-solution-beats-100/">Solution</a></td>
         </tr>
-        <tr>
+      <tr>
             <td>9</td>
-            <td><a href=""></a></td>
-            <td><a href="">Solution</a></td>
+            <td><a href="https://leetcode.com/problems/count-number-of-nice-subarrays/description/">Count Number of Nice Subarrays</a></td>
+            <td><a href="https://leetcode.com/problems/count-number-of-nice-subarrays/solutions/4536604/microsoft-easy-solution/">Solution</a></td>
         </tr>
-        <tr>
+     <tr>
             <td>10</td>
-            <td><a href=""></a></td>
-            <td><a href="">Solution</a></td>
+            <td><a href="https://leetcode.com/problems/repeated-dna-sequences/description/">Repeated DNA Sequences</a></td>
+            <td><a href="https://leetcode.com/problems/repeated-dna-sequences/solutions/4536658/microsoft-easy-solution-beats-100/">Solution</a></td>
         </tr>
-        <tr>
+      <!--      <tr>
             <td>11</td>
             <td><a href=""></a></td>
             <td><a href="">Solution</a></td>
