@@ -149,17 +149,17 @@
             <td><a href="https://leetcode.com/problems/repeated-dna-sequences/description/">Repeated DNA Sequences</a></td>
             <td><a href="https://leetcode.com/problems/repeated-dna-sequences/solutions/4536658/microsoft-easy-solution-beats-100/">Solution</a></td>
         </tr>
-      <!--      <tr>
+          <tr>
             <td>11</td>
-            <td><a href=""></a></td>
-            <td><a href="">Solution</a></td>
+            <td><a href="https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/description/">Find the City With the Smallest Number of Neighbors at a Threshold Distance</a></td>
+            <td><a href="https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/solutions/4542675/microsoft-easy-solution-beats-100/">Solution</a></td>
         </tr>
-        <tr>
+      <tr>
             <td>12</td>
-            <td><a href=""></a></td>
-            <td><a href="">Solution</a></td>
+            <td><a href="https://leetcode.com/problems/count-the-number-of-incremovable-subarrays-i/description/">Count the Number of Incremovable Subarrays I</a></td>
+            <td><a href="https://leetcode.com/problems/count-the-number-of-incremovable-subarrays-i/solutions/4542759/microsoft-easy-solution/">Solution</a></td>
         </tr>
-        <tr>
+         <!--   <tr>
             <td>13</td>
             <td><a href=""></a></td>
             <td><a href="">Solution</a></td>
