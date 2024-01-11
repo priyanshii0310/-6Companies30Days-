@@ -163,22 +163,21 @@
             <td>12</td>
             <td><a href="https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-subsequences/description/">Maximum Product of the Length of Two Palindromic Subsequences</a></td>
             <td><a href="https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-subsequences/solutions/4548065/microsoft-easy-solution-beats-100/">Solution</a></td>
-     <!--    </tr>
+       </tr>
         <tr>
             <td>13</td>
-            <td><a href=""></a></td>
-            <td><a href="">Solution</a></td>
+            <td><a href="https://leetcode.com/problems/wiggle-sort-ii/description/">Wiggle Sort II</a></td>
+            <td><a href="https://leetcode.com/problems/wiggle-sort-ii/solutions/4548218/microsoft-easy-solution/">Solution</a></td>
         </tr>
         <tr>
             <td>14</td>
-            <td><a href=""></a></td>
-            <td><a href="">Solution</a></td>
+            <td><a href="https://leetcode.com/problems/shopping-offers/description/">Shopping Offers</a></td>
+            <td><a href="https://leetcode.com/problems/shopping-offers/solutions/4548290/microsoft-easy-solution-beats-100/">Solution</a></td>
         </tr> 
         <tr>
             <td>15</td>
-            <td><a href=""></a></td>
-            <td><a href="">Solution</a></td>
+            <td><a href="https://leetcode.com/problems/minimum-cost-to-convert-string-i/description/">Minimum Cost to Convert String I</a></td>
+            <td><a href="https://leetcode.com/problems/minimum-cost-to-convert-string-i/solutions/4548318/microsoft-easy-solution-beats-100/">Solution</a></td>
         </tr>
-               -->
     </tbody>
 </table>
