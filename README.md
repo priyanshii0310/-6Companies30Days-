@@ -130,49 +130,55 @@
             <td><a href="https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/solutions/4534483/microsoft-easy-solution-challenge/">Solution</a></td>
         </tr>
        <tr>
-            <td>7</td>
+<!--             <td>7</td>
             <td><a href="https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/description/">Random Point in Non-overlapping Rectangles</a></td>
             <td><a href="https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/solutions/4534532/microsoft-easy-solution/">Solution</a></td>
-        </tr>
+        </tr> -->
          <tr>
-            <td>8</td>
+            <td>7</td>
             <td><a href="https://leetcode.com/problems/bulls-and-cows/description/">Bulls and Cows</a></td>
             <td><a href="https://leetcode.com/problems/bulls-and-cows/solutions/4536563/microsoft-easy-solution-beats-100/">Solution</a></td>
         </tr>
       <tr>
-            <td>9</td>
+            <td>8</td>
             <td><a href="https://leetcode.com/problems/count-number-of-nice-subarrays/description/">Count Number of Nice Subarrays</a></td>
             <td><a href="https://leetcode.com/problems/count-number-of-nice-subarrays/solutions/4536604/microsoft-easy-solution/">Solution</a></td>
         </tr>
      <tr>
-            <td>10</td>
+            <td>9</td>
             <td><a href="https://leetcode.com/problems/repeated-dna-sequences/description/">Repeated DNA Sequences</a></td>
             <td><a href="https://leetcode.com/problems/repeated-dna-sequences/solutions/4536658/microsoft-easy-solution-beats-100/">Solution</a></td>
         </tr>
           <tr>
-            <td>11</td>
+            <td>10</td>
             <td><a href="https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/description/">Find the City With the Smallest Number of Neighbors at a Threshold Distance</a></td>
             <td><a href="https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/solutions/4542675/microsoft-easy-solution-beats-100/">Solution</a></td>
         </tr>
       <tr>
-            <td>12</td>
+            <td>11</td>
             <td><a href="https://leetcode.com/problems/count-the-number-of-incremovable-subarrays-i/description/">Count the Number of Incremovable Subarrays I</a></td>
             <td><a href="https://leetcode.com/problems/count-the-number-of-incremovable-subarrays-i/solutions/4542759/microsoft-easy-solution/">Solution</a></td>
         </tr>
-         <!--   <tr>
+           <tr>
+            <td>12</td>
+            <td><a href="https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-subsequences/description/">Maximum Product of the Length of Two Palindromic Subsequences</a></td>
+            <td><a href="https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-subsequences/solutions/4548065/microsoft-easy-solution-beats-100/">Solution</a></td>
+     <!--    </tr>
+        <tr>
             <td>13</td>
-            <td><a href="">Maximum Product of the Length of Two Palindromic Subsequences</a></td>
+            <td><a href=""></a></td>
             <td><a href="">Solution</a></td>
         </tr>
         <tr>
             <td>14</td>
             <td><a href=""></a></td>
             <td><a href="">Solution</a></td>
-        </tr>
+        </tr> 
         <tr>
             <td>15</td>
             <td><a href=""></a></td>
             <td><a href="">Solution</a></td>
-        </tr> -->
+        </tr>
+               -->
     </tbody>
 </table>
