@@ -85,7 +85,6 @@
             <td><a href="https://leetcode.com/problems/number-of-ways-to-reach-a-position-after-exactly-k-steps/description/">Number of Ways to Reach a Position After Exactly k Steps</a></td>
             <td><a href="https://leetcode.com/problems/number-of-ways-to-reach-a-position-after-exactly-k-steps/solutions/4516931/goldman-sachs-easy-solution-beats100/">Solution</a></td>
         </tr>
-    </tbody>
 </table>
 
 ## 2. Microsoft
@@ -130,11 +129,7 @@
             <td><a href="https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/solutions/4534483/microsoft-easy-solution-challenge/">Solution</a></td>
         </tr>
        <tr>
-<!--             <td>7</td>
-            <td><a href="https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/description/">Random Point in Non-overlapping Rectangles</a></td>
-            <td><a href="https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/solutions/4534532/microsoft-easy-solution/">Solution</a></td>
-        </tr> -->
-         <tr>
+          <tr>
             <td>7</td>
             <td><a href="https://leetcode.com/problems/bulls-and-cows/description/">Bulls and Cows</a></td>
             <td><a href="https://leetcode.com/problems/bulls-and-cows/solutions/4536563/microsoft-easy-solution-beats-100/">Solution</a></td>
@@ -179,5 +174,94 @@
             <td><a href="https://leetcode.com/problems/minimum-cost-to-convert-string-i/description/">Minimum Cost to Convert String I</a></td>
             <td><a href="https://leetcode.com/problems/minimum-cost-to-convert-string-i/solutions/4548318/microsoft-easy-solution-beats-100/">Solution</a></td>
         </tr>
+</table>
+
+## 2. Microsoft
+
+<table border="1">
+    <thead>
+        <tr>
+            <th>S No.</th>
+            <th>Question</th>
+            <th>Answer</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1</td>
+            <td><a href="https://leetcode.com/problems/largest-divisible-subset/description/">Largest Divisible Subset</a></td>
+            <td><a href="https://leetcode.com/problems/largest-divisible-subset/solutions/4557282/microsoft-easy-solution-beats-100/">Solution</a></td>
+        </tr>
+        <tr>
+           <td>2</td>
+            <td><a href="https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/description/">Find Subsequence of Length K With the Largest Sum</a></td>
+            <td><a href="https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/solutions/4557338/microsoft-easy-solution/">Solution</a></td>
+        </tr>
+      <tr>
+            <td>3</td>
+            <td><a href="https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/description/?envType=daily-question&envId=2024-01-10">Amount of Time for Binary Tree to Be Infected</a></td>
+            <td><a href="https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/solutions/4557378/microsoft-easy-solution-beats-100/">Solution</a></td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td><a href="https://leetcode.com/problems/k-diff-pairs-in-an-array/description/">K-diff Pairs in an Array</a></td>
+            <td><a href="https://leetcode.com/problems/k-diff-pairs-in-an-array/solutions/4557403/microsoft-easy-solution/">Solution</a></td>
+        </tr>
+          <tr>
+            <td>5</td>
+            <td><a href="https://leetcode.com/problems/count-the-number-of-square-free-subsets/description/">Count the Number of Square-Free Subsets</a></td>
+            <td><a href="https://leetcode.com/problems/count-the-number-of-square-free-subsets/solutions/4557457/microsoft-easy-solution-beats-100/">Solution</a></td>
+        </tr>
+     <!--   <tr>
+            <td>6</td>
+            <td><a href=""></a></td>
+            <td><a href="">Solution</a></td>
+        </tr>
+       <tr>
+          <tr>
+            <td>7</td>
+            <td><a href=""></a></td>
+            <td><a href="">Solution</a></td>
+        </tr>
+      <tr>
+            <td>8</td>
+            <td><a href=""></a></td>
+            <td><a href="">Solution</a></td>
+        </tr>
+     <tr>
+            <td>9</td>
+            <td><a href=""></a></td>
+            <td><a href="">Solution</a></td>
+        </tr>
+          <tr>
+            <td>10</td>
+            <td><a href=""></a></td>
+            <td><a href="">Solution</a></td>
+        </tr>
+      <tr>
+            <td>11</td>
+            <td><a href=""></a></td>
+            <td><a href="">Solution</a></td>
+        </tr>
+           <tr>
+            <td>12</td>
+            <td><a href="></a></td>
+            <td><a href="">Solution</a></td>
+       </tr>
+        <tr>
+            <td>13</td>
+            <td><a href=""></a></td>
+            <td><a href="">Solution</a></td>
+        </tr>
+        <tr>
+            <td>14</td>
+            <td><a href=""></a></td>
+            <td><a href="">Solution</a></td>
+        </tr> 
+        <tr>
+            <td>15</td>
+            <td><a href=""></a></td>
+            <td><a href="">Solution</a></td>
+        </tr> -->
     </tbody>
 </table>
