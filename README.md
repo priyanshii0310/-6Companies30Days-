@@ -212,28 +212,28 @@
             <td><a href="https://leetcode.com/problems/count-the-number-of-square-free-subsets/description/">Count the Number of Square-Free Subsets</a></td>
             <td><a href="https://leetcode.com/problems/count-the-number-of-square-free-subsets/solutions/4557457/microsoft-easy-solution-beats-100/">Solution</a></td>
         </tr>
-     <!--   <tr>
-            <td>6</td>
-            <td><a href=""></a></td>
-            <td><a href="">Solution</a></td>
-        </tr>
        <tr>
+            <td>6</td>
+            <td><a href="https://leetcode.com/problems/rotate-function/description/">Rotate Function</a></td>
+            <td><a href="https://leetcode.com/problems/rotate-function/solutions/4563173/microsoft-easy-solution-beats-100/">Solution</a></td>
+        </tr>
+     <tr>
           <tr>
             <td>7</td>
-            <td><a href=""></a></td>
-            <td><a href="">Solution</a></td>
+            <td><a href="https://leetcode.com/problems/get-equal-substrings-within-budget/description/">Get Equal Substrings Within Budget</a></td>
+            <td><a href="https://leetcode.com/problems/get-equal-substrings-within-budget/solutions/4563185/microsoft-easy-solution-beats-100/">Solution</a></td>
         </tr>
       <tr>
             <td>8</td>
-            <td><a href=""></a></td>
-            <td><a href="">Solution</a></td>
+            <td><a href="https://leetcode.com/problems/friends-of-appropriate-ages/description/">Friends Of Appropriate Ages</a></td>
+            <td><a href="https://leetcode.com/problems/friends-of-appropriate-ages/solutions/4563198/microsoft-easy-solution-beats-100/">Solution</a></td>
         </tr>
-     <tr>
+    <tr>
             <td>9</td>
-            <td><a href=""></a></td>
-            <td><a href="">Solution</a></td>
+            <td><a href="https://leetcode.com/problems/maximum-length-of-repeated-subarray/description/">Maximum Length of Repeated Subarray</a></td>
+            <td><a href="https://leetcode.com/problems/maximum-length-of-repeated-subarray/solutions/4563214/microsoft-easy-solution-beats-100/">Solution</a></td>
         </tr>
-          <tr>
+         <!--     <tr>
             <td>10</td>
             <td><a href=""></a></td>
             <td><a href="">Solution</a></td>
