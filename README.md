@@ -233,14 +233,14 @@
             <td><a href="https://leetcode.com/problems/maximum-length-of-repeated-subarray/description/">Maximum Length of Repeated Subarray</a></td>
             <td><a href="https://leetcode.com/problems/maximum-length-of-repeated-subarray/solutions/4563214/microsoft-easy-solution-beats-100/">Solution</a></td>
         </tr>
-         <!--     <tr>
+             <tr>
             <td>10</td>
-            <td><a href=""></a></td>
-            <td><a href="">Solution</a></td>
+            <td><a href="https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/description/">Verify Preorder Serialization of a Binary Tree</a></td>
+            <td><a href="https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/solutions/4563541/microsoft-easy-solution/">Solution</a></td>
         </tr>
-      <tr>
+   <!--    <tr>
             <td>11</td>
-            <td><a href=""></a></td>
+            <td><a href="https://leetcode.com/problems/top-k-frequent-words/description/">Top K Frequent Words</a></td>
             <td><a href="">Solution</a></td>
         </tr>
            <tr>
