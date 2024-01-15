@@ -238,17 +238,17 @@
             <td><a href="https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/description/">Verify Preorder Serialization of a Binary Tree</a></td>
             <td><a href="https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/solutions/4563541/microsoft-easy-solution/">Solution</a></td>
         </tr>
-   <!--    <tr>
+     <tr>
             <td>11</td>
             <td><a href="https://leetcode.com/problems/top-k-frequent-words/description/">Top K Frequent Words</a></td>
-            <td><a href="">Solution</a></td>
+            <td><a href="https://leetcode.com/problems/top-k-frequent-words/solutions/4570201/microsoft-easy-solution/">Solution</a></td>
         </tr>
            <tr>
             <td>12</td>
-            <td><a href="></a></td>
-            <td><a href="">Solution</a></td>
+            <td><a href="https://leetcode.com/problems/battleships-in-a-board/description/">Battleships in a Board</a></td>
+            <td><a href="https://leetcode.com/problems/battleships-in-a-board/solutions/4570227/microsoft-easy-solution/">Solution</a></td>
        </tr>
-        <tr>
+ <!--         <tr>
             <td>13</td>
             <td><a href=""></a></td>
             <td><a href="">Solution</a></td>
