@@ -248,20 +248,20 @@
             <td><a href="https://leetcode.com/problems/battleships-in-a-board/description/">Battleships in a Board</a></td>
             <td><a href="https://leetcode.com/problems/battleships-in-a-board/solutions/4570227/microsoft-easy-solution/">Solution</a></td>
        </tr>
- <!--         <tr>
+         <tr>
             <td>13</td>
-            <td><a href=""></a></td>
-            <td><a href="">Solution</a></td>
+            <td><a href="https://leetcode.com/problems/sort-characters-by-frequency/description/">Sort Characters By Frequency</a></td>
+            <td><a href="https://leetcode.com/problems/sort-characters-by-frequency/solutions/4570321/microsoft-easy-solution-beats-100/">Solution</a></td>
         </tr>
         <tr>
             <td>14</td>
-            <td><a href=""></a></td>
-            <td><a href="">Solution</a></td>
+            <td><a href="https://leetcode.com/problems/word-break/description/">Word Break</a></td>
+            <td><a href="https://leetcode.com/problems/word-break/solutions/4570353/microsoft-easy-solution-beats-100/">Solution</a></td>
         </tr> 
         <tr>
             <td>15</td>
-            <td><a href=""></a></td>
-            <td><a href="">Solution</a></td>
-        </tr> -->
+            <td><a href="https://leetcode.com/problems/extra-characters-in-a-string/description/">Extra Characters in a String</a></td>
+            <td><a href="https://leetcode.com/problems/extra-characters-in-a-string/solutions/4570424/microsoft-easy-solution-beats-100/">Solution</a></td>
+        </tr> 
     </tbody>
 </table>
