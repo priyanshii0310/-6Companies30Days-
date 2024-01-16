@@ -262,6 +262,93 @@
             <td>15</td>
             <td><a href="https://leetcode.com/problems/extra-characters-in-a-string/description/">Extra Characters in a String</a></td>
             <td><a href="https://leetcode.com/problems/extra-characters-in-a-string/solutions/4570424/microsoft-easy-solution-beats-100/">Solution</a></td>
-        </tr> 
+        </tr>
+</table>
+
+## 4. Adobe
+
+<table border="1">
+    <thead>
+        <tr>
+            <th>S No.</th>
+            <th>Question</th>
+            <th>Answer</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1</td>
+            <td><a href="https://leetcode.com/problems/trim-a-binary-search-tree/description/">Trim a Binary Search Tree</a></td>
+            <td><a href="https://leetcode.com/problems/trim-a-binary-search-tree/solutions/4576917/microsoft-easy-solution-beats-100/">Solution</a></td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td><a href="https://leetcode.com/problems/construct-the-longest-new-string/description/">Construct the Longest New String</a></td>
+            <td><a href="https://leetcode.com/problems/construct-the-longest-new-string/solutions/4576985/microsoft-easy-solution-beats-100/">Solution</a></td>
+        </tr>
+       <tr>
+            <td>3</td>
+            <td><a href="https://leetcode.com/problems/short-encoding-of-words/description/">Short Encoding of Words</a></td>
+            <td><a href="https://leetcode.com/problems/short-encoding-of-words/solutions/4577031/microsoft-easy-solution-beats-100/">Solution</a></td>
+        </tr>
+<!--        <tr>
+            <td>4</td>
+            <td><a href=""></a></td>
+            <td><a href="">Solution</a></td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td><a href=""></a></td>
+            <td><a href="">Solution</a></td>
+        </tr>
+            <td>3</td>
+            <td><a href=""></a></td>
+            <td><a href="">Solution</a></td>
+        </tr>
+        <tr>
+            <td>7</td>
+            <td><a href=""></a></td>
+            <td><a href="">Solution</a></td>
+        </tr>
+        <tr>
+            <td>8</td>
+            <td><a href=""></a></td>
+            <td><a href="">Solution</a></td>
+        </tr>
+        <tr>
+            <td>9</td>
+            <td><a href=""></a></td>
+            <td><a href="">Solution</a></td>
+        </tr>
+        <tr>
+            <td>10</td>
+            <td><a href="https://leetcode.com/problems/k-divisible-elements-subarrays/description/">K Divisible Elements Subarrays</a></td>
+            <td><a href="https://leetcode.com/problems/k-divisible-elements-subarrays/solutions/4513890/goldman-sachs-easy-solution/">Solution</a></td>
+        </tr>
+        <tr>
+            <td>11</td>
+            <td><a href="https://leetcode.com/problems/map-of-highest-peak/description/">Map of Highest Peak</a></td>
+            <td><a href="https://leetcode.com/problems/map-of-highest-peak/solutions/4513922/goldman-sachs-easy-solution/">Solution</a></td>
+        </tr>
+        <tr>
+            <td>12</td>
+            <td><a href="https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/description/">Maximum Sum BST in Binary Tree</a></td>
+            <td><a href="https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/solutions/4516859/goldman-sachs-easy-solution/">Solution</a></td>
+        </tr>
+        <tr>
+            <td>13</td>
+            <td><a href="https://leetcode.com/problems/number-of-people-aware-of-a-secret/description/">Number of People Aware of a Secret</a></td>
+            <td><a href="https://leetcode.com/problems/number-of-people-aware-of-a-secret/solutions/4516885/goldman-sachs-easy-solution/">Solution</a></td>
+        </tr>
+        <tr>
+            <td>14</td>
+            <td><a href="https://www.geeksforgeeks.org/problems/run-length-encoding/1">Run Length Encoding</a></td>
+            <td><a href="https://discuss.geeksforgeeks.org/comment/eb847504-3a9f-4f8d-a38d-5e41a6813533/practice">Solution</a></td>
+        </tr>
+        <tr>
+            <td>15</td>
+            <td><a href="https://leetcode.com/problems/number-of-ways-to-reach-a-position-after-exactly-k-steps/description/">Number of Ways to Reach a Position After Exactly k Steps</a></td>
+            <td><a href="https://leetcode.com/problems/number-of-ways-to-reach-a-position-after-exactly-k-steps/solutions/4516931/goldman-sachs-easy-solution-beats100/">Solution</a></td>
+        </tr> -->
     </tbody>
 </table>
