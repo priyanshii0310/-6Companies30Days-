@@ -291,64 +291,64 @@
             <td><a href="https://leetcode.com/problems/short-encoding-of-words/description/">Short Encoding of Words</a></td>
             <td><a href="https://leetcode.com/problems/short-encoding-of-words/solutions/4577031/microsoft-easy-solution-beats-100/">Solution</a></td>
         </tr>
-<!--        <tr>
-            <td>4</td>
-            <td><a href=""></a></td>
-            <td><a href="">Solution</a></td>
-        </tr>
         <tr>
+            <td>4</td>
+            <td><a href="https://leetcode.com/problems/constrained-subsequence-sum/description/">Constrained Subsequence Sum</a></td>
+            <td><a href="https://leetcode.com/problems/constrained-subsequence-sum/solutions/4581244/microsoft-easy-solution-beats-100/">Solution</a></td>
+        </tr>
+      <tr>
             <td>5</td>
-            <td><a href=""></a></td>
-            <td><a href="">Solution</a></td>
+            <td><a href="https://leetcode.com/problems/special-permutations/description/">Special Permutations</a></td>
+            <td><a href="https://leetcode.com/problems/special-permutations/solutions/4581562/microsoft-easy-solution/">Solution</a></td>
         </tr>
             <td>3</td>
-            <td><a href=""></a></td>
-            <td><a href="">Solution</a></td>
+            <td><a href="https://leetcode.com/problems/matrix-cells-in-distance-order/description/">Matrix Cells in Distance Order</a></td>
+            <td><a href="https://leetcode.com/problems/matrix-cells-in-distance-order/solutions/4581585/microsoft-easy-solution-beats-100/">Solution</a></td>
         </tr>
         <tr>
             <td>7</td>
-            <td><a href=""></a></td>
-            <td><a href="">Solution</a></td>
+            <td><a href="https://leetcode.com/problems/the-skyline-problem/description/">The Skyline Problem</a></td>
+            <td><a href="https://leetcode.com/problems/the-skyline-problem/solutions/4581705/microsoft-easy-solution-beats-100/">Solution</a></td>
         </tr>
         <tr>
             <td>8</td>
-            <td><a href=""></a></td>
-            <td><a href="">Solution</a></td>
+            <td><a href="https://leetcode.com/problems/minimum-cost-of-a-path-with-special-roads/description/">Minimum Cost of a Path With Special Roads</a></td>
+            <td><a href="https://leetcode.com/problems/minimum-cost-of-a-path-with-special-roads/solutions/4588759/microsoft-easy-solution/">Solution</a></td>
         </tr>
-        <tr>
+     <tr>
             <td>9</td>
+            <td><a href="https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/solutions/4593843/microsoft-easy-solution/">Longest Word in Dictionary through Deleting</a></td>
+            <td><a href="https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/solutions/4593843/microsoft-easy-solution/">Solution</a></td>
+        </tr>
+     <!--        <tr>
+            <td>10</td>
             <td><a href=""></a></td>
             <td><a href="">Solution</a></td>
-        </tr>
-        <tr>
-            <td>10</td>
-            <td><a href="https://leetcode.com/problems/k-divisible-elements-subarrays/description/">K Divisible Elements Subarrays</a></td>
-            <td><a href="https://leetcode.com/problems/k-divisible-elements-subarrays/solutions/4513890/goldman-sachs-easy-solution/">Solution</a></td>
         </tr>
         <tr>
             <td>11</td>
-            <td><a href="https://leetcode.com/problems/map-of-highest-peak/description/">Map of Highest Peak</a></td>
-            <td><a href="https://leetcode.com/problems/map-of-highest-peak/solutions/4513922/goldman-sachs-easy-solution/">Solution</a></td>
+            <td><a href=""></a></td>
+            <td><a href="">Solution</a></td>
         </tr>
         <tr>
             <td>12</td>
-            <td><a href="https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/description/">Maximum Sum BST in Binary Tree</a></td>
-            <td><a href="https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/solutions/4516859/goldman-sachs-easy-solution/">Solution</a></td>
+            <td><a href=""></a></td>
+            <td><a href="">Solution</a></td>
         </tr>
         <tr>
             <td>13</td>
-            <td><a href="https://leetcode.com/problems/number-of-people-aware-of-a-secret/description/">Number of People Aware of a Secret</a></td>
-            <td><a href="https://leetcode.com/problems/number-of-people-aware-of-a-secret/solutions/4516885/goldman-sachs-easy-solution/">Solution</a></td>
+            <td><a href=""></a></td>
+            <td><a href="">Solution</a></td>
         </tr>
         <tr>
             <td>14</td>
-            <td><a href="https://www.geeksforgeeks.org/problems/run-length-encoding/1">Run Length Encoding</a></td>
-            <td><a href="https://discuss.geeksforgeeks.org/comment/eb847504-3a9f-4f8d-a38d-5e41a6813533/practice">Solution</a></td>
+            <td><a href=""></a></td>
+            <td><a href="">Solution</a></td>
         </tr>
         <tr>
             <td>15</td>
-            <td><a href="https://leetcode.com/problems/number-of-ways-to-reach-a-position-after-exactly-k-steps/description/">Number of Ways to Reach a Position After Exactly k Steps</a></td>
-            <td><a href="https://leetcode.com/problems/number-of-ways-to-reach-a-position-after-exactly-k-steps/solutions/4516931/goldman-sachs-easy-solution-beats100/">Solution</a></td>
+            <td><a href=""></a></td>
+            <td><a href="">Solution</a></td>
         </tr> -->
     </tbody>
 </table>
