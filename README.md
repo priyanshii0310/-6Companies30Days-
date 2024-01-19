@@ -322,18 +322,18 @@
         </tr>
      <!--        <tr>
             <td>10</td>
-            <td><a href=""></a></td>
-            <td><a href="">Solution</a></td>
+            <td><a href="https://leetcode.com/problems/find-players-with-zero-or-one-losses/description/">Find Players With Zero or One Losses</a></td>
+            <td><a href="https://leetcode.com/problems/find-players-with-zero-or-one-losses/solutions/4593891/microsoft-easy-solution/">Solution</a></td>
         </tr>
         <tr>
             <td>11</td>
-            <td><a href=""></a></td>
-            <td><a href="">Solution</a></td>
+            <td><a href="https://leetcode.com/problems/cinema-seat-allocation/description/">Cinema Seat Allocation</a></td>
+            <td><a href="https://leetcode.com/problems/cinema-seat-allocation/solutions/4593927/microsoft-easy-solution/">Solution</a></td>
         </tr>
         <tr>
             <td>12</td>
-            <td><a href=""></a></td>
-            <td><a href="">Solution</a></td>
+            <td><a href="https://leetcode.com/problems/airplane-seat-assignment-probability/description/">Airplane Seat Assignment Probability</a></td>
+            <td><a href="https://leetcode.com/problems/airplane-seat-assignment-probability/solutions/4594078/microsoft-easy-solution-beats-100/">Solution</a></td>
         </tr>
         <tr>
             <td>13</td>
