@@ -320,7 +320,7 @@
             <td><a href="https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/solutions/4593843/microsoft-easy-solution/">Longest Word in Dictionary through Deleting</a></td>
             <td><a href="https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/solutions/4593843/microsoft-easy-solution/">Solution</a></td>
         </tr>
-     <!--        <tr>
+         <tr>
             <td>10</td>
             <td><a href="https://leetcode.com/problems/find-players-with-zero-or-one-losses/description/">Find Players With Zero or One Losses</a></td>
             <td><a href="https://leetcode.com/problems/find-players-with-zero-or-one-losses/solutions/4593891/microsoft-easy-solution/">Solution</a></td>
@@ -335,7 +335,7 @@
             <td><a href="https://leetcode.com/problems/airplane-seat-assignment-probability/description/">Airplane Seat Assignment Probability</a></td>
             <td><a href="https://leetcode.com/problems/airplane-seat-assignment-probability/solutions/4594078/microsoft-easy-solution-beats-100/">Solution</a></td>
         </tr>
-        <tr>
+    <!--        <tr>
             <td>13</td>
             <td><a href=""></a></td>
             <td><a href="">Solution</a></td>
