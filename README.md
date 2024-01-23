@@ -335,7 +335,95 @@
             <td><a href="https://leetcode.com/problems/airplane-seat-assignment-probability/description/">Airplane Seat Assignment Probability</a></td>
             <td><a href="https://leetcode.com/problems/airplane-seat-assignment-probability/solutions/4594078/microsoft-easy-solution-beats-100/">Solution</a></td>
         </tr>
-    <!--        <tr>
+       <tr>
+            <td>13</td>
+            <td><a href="https://leetcode.com/problems/erect-the-fence/description/">Erect the Fence</a></td>
+            <td><a href="https://leetcode.com/problems/erect-the-fence/solutions/4612139/microsoft-easy-solution/">Solution</a></td>
+        </tr> 
+        <tr>
+            <td>14</td>
+            <td><a href="https://leetcode.com/problems/get-equal-substrings-within-budget/description/">Get Equal Substrings Within Budget</a></td>
+            <td><a href="https://leetcode.com/problems/get-equal-substrings-within-budget/solutions/4563185/microsoft-easy-solution-beats-100/">Solution</a></td>
+        </tr>
+        <tr>
+            <td>15</td>
+            <td><a href="https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/description/">Last Moment Before All Ants Fall Out of a Plank</a></td>
+            <td><a href="https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/">Solution</a></td>
+        </tr>
+</table>
+
+<!-- ## 1. Goldman Sachs
+
+<table border="1">
+    <thead>
+        <tr>
+            <th>S No.</th>
+            <th>Question</th>
+            <th>Answer</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1</td>
+            <td><a href=""></a></td>
+            <td><a href="">Solution</a></td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td><a href=""></a></td>
+            <td><a href="">Solution</a></td>
+        </tr>
+      <tr>
+            <td>3</td>
+            <td><a href=""></a></td>
+            <td><a href="">Solution</a></td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td><a href=""></a></td>
+            <td><a href="">Solution</a></td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td><a href=""></a></td>
+            <td><a href="">Solution</a></td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td><a href=""></a></td>
+            <td><a href="">Solution</a></td>
+        </tr>
+        <tr>
+            <td>7</td>
+            <td><a href=""></a></td>
+            <td><a href="">Solution</a></td>
+        </tr>
+        <tr>
+            <td>8</td>
+            <td><a href=""></a></td>
+            <td><a href="">Solution</a></td>
+        </tr>
+        <tr>
+            <td>9</td>
+            <td><a href=""></a></td>
+            <td><a href="">Solution</a></td>
+        </tr>
+        <tr>
+            <td>10</td>
+            <td><a href=""></a></td>
+            <td><a href="">Solution</a></td>
+        </tr>
+        <tr>
+            <td>11</td>
+            <td><a href=""></a></td>
+            <td><a href="">Solution</a></td>
+        </tr>
+        <tr>
+            <td>12</td>
+            <td><a href=""></a></td>
+            <td><a href="">Solution</a></td>
+        </tr>
+        <tr>
             <td>13</td>
             <td><a href=""></a></td>
             <td><a href="">Solution</a></td>
@@ -349,6 +437,6 @@
             <td>15</td>
             <td><a href=""></a></td>
             <td><a href="">Solution</a></td>
-        </tr> -->
-    </tbody>
-</table>
+        </tr>
+</table> -->
+ </tbody>
