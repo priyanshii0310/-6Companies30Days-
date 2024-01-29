@@ -352,7 +352,7 @@
         </tr>
 </table>
 
-<!-- ## 1. Goldman Sachs
+## 1. Goldman Sachs
 
 <table border="1">
     <thead>
@@ -365,40 +365,40 @@
     <tbody>
         <tr>
             <td>1</td>
-            <td><a href=""></a></td>
-            <td><a href="">Solution</a></td>
+            <td><a href="https://leetcode.com/problems/assign-cookies/description/">Assign Cookies</a></td>
+            <td><a href="https://leetcode.com/problems/assign-cookies/solutions/4638643/microsoft-easy-solution-beats-100/">Solution</a></td>
         </tr>
         <tr>
             <td>2</td>
-            <td><a href=""></a></td>
-            <td><a href="">Solution</a></td>
+            <td><a href="https://leetcode.com/problems/throne-inheritance/description/">Throne Inheritance</a></td>
+            <td><a href="https://leetcode.com/problems/throne-inheritance/solutions/4643374/microsoft-easy-solution-beats-100/">Solution</a></td>
         </tr>
       <tr>
             <td>3</td>
-            <td><a href=""></a></td>
-            <td><a href="">Solution</a></td>
+            <td><a href="https://leetcode.com/problems/kth-largest-element-in-a-stream/description/">Kth Largest Element in a Stream</a></td>
+            <td><a href="https://leetcode.com/problems/kth-largest-element-in-a-stream/solutions/4643465/microsoft-easy-solution/">Solution</a></td>
         </tr>
         <tr>
             <td>4</td>
-            <td><a href=""></a></td>
-            <td><a href="">Solution</a></td>
+            <td><a href="https://leetcode.com/problems/maximize-area-of-square-hole-in-grid/description/">Maximize Area of Square Hole in Grid</a></td>
+            <td><a href="https://leetcode.com/problems/maximize-area-of-square-hole-in-grid/solutions/4643482/microsoft-easy-solution/">Solution</a></td>
         </tr>
         <tr>
             <td>5</td>
-            <td><a href=""></a></td>
-            <td><a href="">Solution</a></td>
+            <td><a href="https://leetcode.com/problems/lru-cache/description/">LRU Cache</a></td>
+            <td><a href="https://leetcode.com/problems/lru-cache/solutions/4643499/microsoft-easy-solution/">Solution</a></td>
         </tr>
         <tr>
             <td>6</td>
-            <td><a href=""></a></td>
-            <td><a href="">Solution</a></td>
+            <td><a href="https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-i/description/">Find Beautiful Indices in the Given Array I</a></td>
+            <td><a href="https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-i/solutions/4643603/microsoft-easy-solution/">Solution</a></td>
         </tr>
         <tr>
             <td>7</td>
-            <td><a href=""></a></td>
-            <td><a href="">Solution</a></td>
+            <td><a href="https://leetcode.com/problems/count-words-obtained-after-adding-a-letter/description/">Count Words Obtained After Adding a Letter</a></td>
+            <td><a href="https://leetcode.com/problems/count-words-obtained-after-adding-a-letter/solutions/4643639/microsoft-easy-solution-beats-100/">Solution</a></td>
         </tr>
-        <tr>
+    <!--     <tr>
             <td>8</td>
             <td><a href=""></a></td>
             <td><a href="">Solution</a></td>
