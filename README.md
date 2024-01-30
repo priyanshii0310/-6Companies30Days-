@@ -352,7 +352,7 @@
         </tr>
 </table>
 
-## 1. Goldman Sachs
+## 5. Atlassian
 
 <table border="1">
     <thead>
@@ -398,45 +398,45 @@
             <td><a href="https://leetcode.com/problems/count-words-obtained-after-adding-a-letter/description/">Count Words Obtained After Adding a Letter</a></td>
             <td><a href="https://leetcode.com/problems/count-words-obtained-after-adding-a-letter/solutions/4643639/microsoft-easy-solution-beats-100/">Solution</a></td>
         </tr>
-    <!--     <tr>
+        <tr>
             <td>8</td>
-            <td><a href=""></a></td>
-            <td><a href="">Solution</a></td>
+            <td><a href="https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/description/">Find the City With the Smallest Number of Neighbors at a Threshold Distance</a></td>
+            <td><a href="https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/solutions/4542675/microsoft-easy-solution-beats-100/">Solution</a></td>
         </tr>
         <tr>
             <td>9</td>
-            <td><a href=""></a></td>
-            <td><a href="">Solution</a></td>
+            <td><a href="https://leetcode.com/problems/minimum-non-zero-product-of-the-array-elements/description/">Minimum Non-Zero Product of the Array Elements</a></td>
+            <td><a href="https://leetcode.com/problems/minimum-non-zero-product-of-the-array-elements/solutions/4648350/microsoft-easy-solution-beats-100/">Solution</a></td>
         </tr>
         <tr>
             <td>10</td>
-            <td><a href=""></a></td>
-            <td><a href="">Solution</a></td>
+            <td><a href="https://leetcode.com/problems/query-kth-smallest-trimmed-number/description/">Query Kth Smallest Trimmed Number</a></td>
+            <td><a href="https://leetcode.com/problems/query-kth-smallest-trimmed-number/solutions/4513183/goldman-sachs-easy-solution/">Solution</a></td>
         </tr>
         <tr>
             <td>11</td>
-            <td><a href=""></a></td>
-            <td><a href="">Solution</a></td>
+            <td><a href="https://leetcode.com/problems/the-number-of-good-subsets/description/">The Number of Good Subsets</a></td>
+            <td><a href="https://leetcode.com/problems/the-number-of-good-subsets/solutions/4648862/microsoft-easy-solution/">Solution</a></td>
         </tr>
         <tr>
             <td>12</td>
-            <td><a href=""></a></td>
-            <td><a href="">Solution</a></td>
+            <td><a href="https://leetcode.com/problems/count-collisions-on-a-road/description/">Count Collisions on a Road</a></td>
+            <td><a href="https://leetcode.com/problems/count-collisions-on-a-road/solutions/4648881/microsoft-easy-solution/">Solution</a></td>
         </tr>
         <tr>
             <td>13</td>
-            <td><a href=""></a></td>
-            <td><a href="">Solution</a></td>
+            <td><a href="https://leetcode.com/problems/find-the-distance-value-between-two-arrays/description/">Find the Distance Value Between Two Arrays</a></td>
+            <td><a href="https://leetcode.com/problems/find-the-distance-value-between-two-arrays/solutions/4648894/microsoft-easy-solution-beats-100/">Solution</a></td>
         </tr>
         <tr>
             <td>14</td>
-            <td><a href=""></a></td>
-            <td><a href="">Solution</a></td>
+            <td><a href="https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/description/">Length of Longest Subarray With at Most K Frequency</a></td>
+            <td><a href="https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/solutions/4648905/microsoft-easy-solution/">Solution</a></td>
         </tr>
         <tr>
             <td>15</td>
-            <td><a href=""></a></td>
-            <td><a href="">Solution</a></td>
+            <td><a href="https://leetcode.com/problems/construct-the-longest-new-string/description/">Construct the Longest New String</a></td>
+            <td><a href="https://leetcode.com/problems/construct-the-longest-new-string/solutions/4576985/microsoft-easy-solution-beats-100/">Solution</a></td>
         </tr>
-</table> -->
+</table> 
  </tbody>
