@@ -441,7 +441,7 @@
 </table> 
 
    
-## 1. Goldman Sachs
+## 6. Google
 
 <table border="1">
     <thead>
@@ -474,17 +474,17 @@
         </tr>
         <tr>
             <td>5</td>
-            <td><a href="https://leetcode.com/problems/random-flip-matrix/description/">Random Flip Matrix</a></td>
-            <td><a href="https://leetcode.com/problems/random-flip-matrix/solutions/4513624/goldman-sachs-easy-solution/">Solution</a></td>
+            <td><a href=""></a></td>
+            <td><a href="">Solution</a></td>
         </tr>
         <tr>
             <td>6</td>
-            <td><a href="https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/">Letter Combinations of a Phone Number</a></td>
-            <td><a href="https://leetcode.com/problems/letter-combinations-of-a-phone-number/solutions/4513338/goldman-sachs-easy-solution/">Solution</a></td>
+            <td><a href=""></a></td>
+            <td><a href="">Solution</a></td>
         </tr>
         <tr>
             <td>7</td>
-            <td><a href="https://www.geeksforgeeks.org/problems/find-missing-and-repeating2512/1">Find Missing And Repeating</a></td>
+            <td><a href=""></a></td>
             <td><a href="https://discuss.geeksforgeeks.org/comment/02365df5-6378-4fda-bbaa-dcc1770921ea/practice">Solution</a></td>
         </tr>
         <tr>
