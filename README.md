@@ -455,77 +455,77 @@
         <tr>
             <td>1</td>
             <td><a href="https://leetcode.com/problems/destroying-asteroids/description/">Destroying Asteroids</a></td>
-            <td><a href="https://leetcode.com/problems/destroying-asteroids/solutions/4649759/microsoft-easy-solution/"</a></td>
+            <td><a href="https://leetcode.com/problems/destroying-asteroids/solutions/4649759/microsoft-easy-solution/">Solution</a></td>
         </tr>
        <tr>
             <td>2</td>
             <td><a href="https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/description/">Find the City With the Smallest Number of Neighbors at a Threshold Distance</a></td>
             <td><a href="https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/solutions/4542675/microsoft-easy-solution-beats-100/">Solution</a></td>
         </tr>
-    <!--   <tr>
+    <tr>
             <td>3</td>
             <td><a href="https://leetcode.com/problems/integer-to-english-words/description/">Integer to English Words</a></td>
-            <td><a href="">Solution</a></td>
+            <td><a href="https://leetcode.com/problems/integer-to-english-words/solutions/4650553/microsoft-easy-solution-beats-100/">Solution</a></td>
         </tr>
         <tr>
             <td>4</td>
-            <td><a href=""></a></td>
-            <td><a href="">Solution</a></td>
+            <td><a href="https://leetcode.com/problems/repeated-dna-sequences/description/">Repeated DNA Sequences</a></td>
+            <td><a href="https://leetcode.com/problems/repeated-dna-sequences/solutions/4536658/microsoft-easy-solution-beats-100/">Solution</a></td>
         </tr>
         <tr>
             <td>5</td>
-            <td><a href=""></a></td>
-            <td><a href="">Solution</a></td>
+            <td><a href="https://leetcode.com/problems/stone-game-vi/description/">Stone Game VI</a></td>
+            <td><a href="https://leetcode.com/problems/stone-game-vi/solutions/4650567/microsoft-easy-solution/">Solution</a></td>
         </tr>
         <tr>
             <td>6</td>
+            <td><a href="https://leetcode.com/problems/merge-k-sorted-lists/description/">Merge k Sorted Lists</a></td>
+            <td><a href="https://leetcode.com/problems/merge-k-sorted-lists/solutions/4654816/microsoft-easy-solution/">Solution</a></td>
+        </tr>
+        <tr>
+            <td>7</td>
+            <td><a href="https://leetcode.com/problems/maximum-product-after-k-increments/description/">Maximum Product After K Increments</a></td>
+            <td><a href="https://leetcode.com/problems/maximum-product-after-k-increments/solutions/4654852/microsoft-easy-solution-beats-100/">Solution</a></td>
+        </tr>
+        <tr>
+            <td>8</td>
+            <td><a href="https://leetcode.com/problems/russian-doll-envelopes/description/">Russian Doll Envelopes</a></td>
+            <td><a href="https://leetcode.com/problems/russian-doll-envelopes/solutions/4522870/microsoft-easy-solution-beats-93/">Solution</a></td>
+        </tr>
+        <tr>
+            <td>9</td>
+            <td><a href="https://leetcode.com/problems/query-kth-smallest-trimmed-number/description/">Query Kth Smallest Trimmed Number</a></td>
+            <td><a href="https://leetcode.com/problems/query-kth-smallest-trimmed-number/solutions/4513183/goldman-sachs-easy-solution/">Solution</a></td>
+        </tr>
+        <tr>
+            <td>10</td>
+            <td><a href="https://leetcode.com/problems/count-subtrees-with-max-distance-between-cities/description/">Count Subtrees With Max Distance Between Cities</a></td>
+            <td><a href="https://leetcode.com/problems/count-subtrees-with-max-distance-between-cities/solutions/4654875/microsoft-easy-solution-beats-100/">Solution</a></td>
+        </tr>
+   <!--        <tr>
+            <td>11</td>
             <td><a href=""></a></td>
             <td><a href="">Solution</a></td>
         </tr>
         <tr>
-            <td>7</td>
-            <td><a href=""></a></td>
-            <td><a href="https://discuss.geeksforgeeks.org/comment/02365df5-6378-4fda-bbaa-dcc1770921ea/practice">Solution</a></td>
-        </tr>
-        <tr>
-            <td>8</td>
-            <td><a href="https://leetcode.com/problems/find-consecutive-integers-from-a-data-stream/">Find Consecutive Integers from a Data Stream</a></td>
-            <td><a href="https://leetcode.com/problems/find-consecutive-integers-from-a-data-stream/solutions/4513781/goldman-sachs-easy-solution/">Solution</a></td>
-        </tr>
-        <tr>
-            <td>9</td>
-            <td><a href="https://www.geeksforgeeks.org/problems/number-following-a-pattern3126/1">Number following a pattern</a></td>
-            <td><a href="https://discuss.geeksforgeeks.org/comment/79baf7ba-80d2-4188-8eae-2378bb0b130d/practice">Solution</a></td>
-        </tr>
-        <tr>
-            <td>10</td>
-            <td><a href="https://leetcode.com/problems/k-divisible-elements-subarrays/description/">K Divisible Elements Subarrays</a></td>
-            <td><a href="https://leetcode.com/problems/k-divisible-elements-subarrays/solutions/4513890/goldman-sachs-easy-solution/">Solution</a></td>
-        </tr>
-        <tr>
-            <td>11</td>
-            <td><a href="https://leetcode.com/problems/map-of-highest-peak/description/">Map of Highest Peak</a></td>
-            <td><a href="https://leetcode.com/problems/map-of-highest-peak/solutions/4513922/goldman-sachs-easy-solution/">Solution</a></td>
-        </tr>
-        <tr>
             <td>12</td>
-            <td><a href="https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/description/">Maximum Sum BST in Binary Tree</a></td>
-            <td><a href="https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/solutions/4516859/goldman-sachs-easy-solution/">Solution</a></td>
+            <td><a href=""></a></td>
+            <td><a href="">Solution</a></td>
         </tr>
         <tr>
             <td>13</td>
-            <td><a href="https://leetcode.com/problems/number-of-people-aware-of-a-secret/description/">Number of People Aware of a Secret</a></td>
-            <td><a href="https://leetcode.com/problems/number-of-people-aware-of-a-secret/solutions/4516885/goldman-sachs-easy-solution/">Solution</a></td>
+            <td><a href=""></a></td>
+            <td><a href="">Solution</a></td>
         </tr>
         <tr>
             <td>14</td>
-            <td><a href="https://www.geeksforgeeks.org/problems/run-length-encoding/1">Run Length Encoding</a></td>
-          <td><a href="https://discuss.geeksforgeeks.org/comment/eb847504-3a9f-4f8d-a38d-5e41a6813533/practice">Solution</a></td>
+            <td><a href=""></a></td>
+          <td><a href="">Solution</a></td>
         </tr>
         <tr>
             <td>15</td>
-            <td><a href="https://leetcode.com/problems/number-of-ways-to-reach-a-position-after-exactly-k-steps/description/">Number of Ways to Reach a Position After Exactly k Steps</a></td>
-            <td><a href="https://leetcode.com/problems/number-of-ways-to-reach-a-position-after-exactly-k-steps/solutions/4516931/goldman-sachs-easy-solution-beats100/">Solution</a></td>
+            <td><a href=""></a></td>
+            <td><a href="">Solution</a></td>
         </tr>
 </table>
  </tbody> -->
