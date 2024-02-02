@@ -502,30 +502,30 @@
             <td><a href="https://leetcode.com/problems/count-subtrees-with-max-distance-between-cities/description/">Count Subtrees With Max Distance Between Cities</a></td>
             <td><a href="https://leetcode.com/problems/count-subtrees-with-max-distance-between-cities/solutions/4654875/microsoft-easy-solution-beats-100/">Solution</a></td>
         </tr>
-   <!--        <tr>
+          <tr>
             <td>11</td>
-            <td><a href=""></a></td>
-            <td><a href="">Solution</a></td>
+            <td><a href="https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island/description/">Minimum Number of Days to Disconnect Island</a></td>
+            <td><a href="https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island/solutions/4666092/microsoft-easy-solution/">Solution</a></td>
         </tr>
         <tr>
             <td>12</td>
-            <td><a href=""></a></td>
-            <td><a href="">Solution</a></td>
+            <td><a href="https://leetcode.com/problems/sum-of-scores-of-built-strings/description/">Sum of Scores of Built Strings</a></td>
+            <td><a href="https://leetcode.com/problems/sum-of-scores-of-built-strings/solutions/4666112/microsoft-easy-solution/">Solution</a></td>
         </tr>
         <tr>
             <td>13</td>
-            <td><a href=""></a></td>
-            <td><a href="">Solution</a></td>
+            <td><a href="https://leetcode.com/problems/find-in-mountain-array/description/">Find in Mountain Array</a></td>
+            <td><a href="https://leetcode.com/problems/find-in-mountain-array/solutions/4666118/microsoft-easy-solution-beats-100/">Solution</a></td>
         </tr>
         <tr>
             <td>14</td>
-            <td><a href=""></a></td>
-          <td><a href="">Solution</a></td>
+            <td><a href="https://leetcode.com/problems/design-add-and-search-words-data-structure/description/">Design Add and Search Words Data Structure</a></td>
+          <td><a href="https://leetcode.com/problems/design-add-and-search-words-data-structure/solutions/4666134/microsoft-easy-solution-beats-100/">Solution</a></td>
         </tr>
         <tr>
             <td>15</td>
-            <td><a href=""></a></td>
-            <td><a href="">Solution</a></td>
+            <td><a href="https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/description/">Number of Good Leaf Nodes Pairs</a></td>
+            <td><a href="https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/solutions/4666147/microsoft-easy-solution-beats-100/">Solution</a></td>
         </tr>
 </table>
- </tbody> -->
+ </tbody> 
